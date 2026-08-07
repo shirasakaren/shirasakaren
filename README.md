@@ -389,3 +389,5 @@ ren@sanctuary ~ $ neofetch --kawaii
 <sub>✧ ｡･:\*:･ﾟ★ *see you around~* ★ﾟ･:\*:･｡ ✧</sub>
 
 </div>
+
+<!-- ✧ profile readme ✧ -->
