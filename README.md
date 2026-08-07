@@ -330,16 +330,17 @@ ren@sanctuary ~ $ neofetch --kawaii
 
 </div>
 
-<details>
-<summary><b>🐍 watch a snake eat my contributions</b> &nbsp;<sub>(activates after the workflow runs once)</sub></summary>
-
-<br>
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/shirasakaren/shirasakaren/output/snake.svg" width="100%" alt="contribution snake" />
-</div>
 
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shirasakaren/shirasakaren/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shirasakaren/shirasakaren/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/shirasakaren/shirasakaren/output/snake.svg" width="100%" alt="a pink snake eating Ren's contributions" />
+</picture>
+
+<sub>🐍 *she eats my contributions every 12 hours* ｡･:\*:･ﾟ★</sub>
+
+</div>
 
 <details>
 <summary><b>🎯 certs — held, renewing, or hunting next</b> &nbsp;<sub>(a roadmap, not a brag list)</sub></summary>
