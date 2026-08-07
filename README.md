@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k0YTRieHp4bTBzeDgxNGo4Z3FiZGMzazZkZmJ0Z2RzMGZhaDZhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5lEHoiAYfaOJ6m9Y8/giphy.gif" width="420" alt="Ren's live2d avatar" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFE0EC,30:FFB7C5,65:FF69B4,100:C77DFF&text=Shirasaka%20Ren&fontSize=66&fontColor=FFFFFF&fontAlignY=38&desc=%E7%99%BD%E5%9D%82%20%E3%82%8C%E3%82%93%20%E3%83%BB%20DevOps%20%C2%B7%20Security%20%C2%B7%20Cloud%20%C2%B7%20Servers&descSize=18&descAlignY=56&animation=fadeIn&section=header" width="100%" alt="banner" />
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k0YTRieHp4bTBzeDgxNGo4Z3FiZGMzazZkZmJ0Z2RzMGZhaDZhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5lEHoiAYfaOJ6m9Y8/giphy.gif" width="420" alt="Ren's live2d avatar" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Baloo+2&weight=800&size=28&pause=900&color=FF4FA3&center=true&vCenter=true&width=820&height=75&lines=laid-back+until+the+pager+goes+off;DevOps+%C2%B7+Security+%C2%B7+Cloud+%C2%B7+Servers;kawaii+on+the+outside%2C+root+on+the+inside;%28btw+i+use+arch%29+%E2%80%A2+remote+from+my+room" alt="typing" />
 
@@ -43,14 +43,13 @@
 </td>
 <td width="70%" valign="middle">
 
-- 🌸 my terminal is pink. my blast radius is **not**.
+- 🌸 my terminal is pink, so does my entire room.
 - ⚡ i fix prod at 3AM in fuzzy socks and call it *"incident command."*
 - 🐧 Windows? don't know her. i dual-boot Arch and *more* Arch.
-- 💬 fluent in YAML, native in Japanese, lethal in PR review.
+- 💬 fluent in YAML, native in Japanese, lethal in PR review. (˶>⩊<˶)
 - 📉 p99 latency is a personal insult. we're working through it.
-- 🛏️ remote from my room — my sanctuary, my SLO, my whole vibe.
-- 🔐 if it's not in Git it doesn't exist. clicked it in a console? i'll know. 👀
-- 🤖 if i do it twice by hand, the third time is a script. that's a promise.
+- 🛏️ remote from my room — my sanctuary. ◝(ᵔᗜᵔ)◜
+- 🤖 if i do it twice by hand, the third time is a script. that's a promise. 
 
 </td>
 </tr>
@@ -298,7 +297,7 @@ ren@sanctuary ~ $ neofetch --kawaii
   ╭───────────────────╮   OS      Arch Linux  (btw)
   │   ∧,,,∧           │   Daily   macOS + nix-darwin
   │  ( ̳• ·̫ • ̳)  ~♡    │   Server  RHEL · Debian · Talos
-  │  /   づ            │   Redteam Kali  (own VLAN, responsible adult)
+  │  /    \>          |   Redteam Kali  (own VLAN, responsible adult)
   ╰───────────────────╯   Shell   zsh + starship + tmux + nvim
   Uptime  99.99%          Theme   pink, obviously 🌸
   Windows ✗ nemesis       Mood    ✧*｡٩(ˊᗜˋ*)و✧*｡
@@ -388,7 +387,7 @@ ren@sanctuary ~ $ neofetch --kawaii
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVycWRlMmNsYXA1emJkZmUwOWFxdjdhdWNjeHl6dWl2dTg5bmY3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdv8L6vywYnFRLFZKC/giphy.gif" width="300" alt="hehe" />
 
-<sub>*hehe~ go on, copy it* ｡･:\*:･ﾟ★</sub>
+<sub>Below are my email. *hehe~ go on, copy it* ｡･:\*:･ﾟ★</sub>
 
 </div>
 
@@ -414,11 +413,11 @@ ren@shirasaka.work
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:C77DFF,35:FF69B4,70:FFB7C5,100:FFE0EC&section=footer&text=thanks%20for%20scrolling%20%EF%BD%9E%20mata%20ne!&fontSize=30&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
-
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVpZXhqdXlqMmlvem42cWZxdXU5bGhvbHd4ZmU0aDhjc2Jibno3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMocMAF7vTfEKGPwVB/giphy.gif" width="460" alt="Ren looking at you" />
 
 <sub>✧ ｡･:\*:･ﾟ★ *see you around~* ★ﾟ･:\*:･｡ ✧</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:C77DFF,35:FF69B4,70:FFB7C5,100:FFE0EC&section=footer&text=thanks%20for%20scrolling%20%EF%BD%9E%20mata%20ne!&fontSize=30&fontColor=FFFFFF&fontAlignY=70&animation=twinkling" width="100%" alt="footer" />
 
 </div>
 
