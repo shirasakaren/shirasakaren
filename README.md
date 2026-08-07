@@ -184,6 +184,24 @@
 
 </div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE0EC,25:FFB7C5,50:FF69B4,75:C77DFF,100:FFE0EC&height=6" width="100%" alt="divider" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYyc21tdTQ3aTh3a3hjMGp2eXY1ZjdtNTNsdDlyYzYwZDIwZnN6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4INBS6NpnX4HDtsYvu/giphy.gif" width="300" alt="heart skipping a beat" />
+
+<sub>*(that's my heart skipping for how much I've mastered)*</sub>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE0EC,25:FFB7C5,50:FF69B4,75:C77DFF,100:FFE0EC&height=6" width="100%" alt="divider" />
+</div>
+
 ## 🛡️ ｡･:\*:･ﾟ★ security ★ﾟ･:\*:･｡
 
 <div align="center">
@@ -268,11 +286,7 @@
 
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYyc21tdTQ3aTh3a3hjMGp2eXY1ZjdtNTNsdDlyYzYwZDIwZnN6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4INBS6NpnX4HDtsYvu/giphy.gif" width="300" alt="heart skipping a beat" />
-
 <sub>**PostgreSQL** is my one true database — i tune `autovacuum` recreationally 💘</sub>
-
-<sub>*(that's my heart skipping, not a failover)*</sub>
 
 </div>
 
