@@ -1,0 +1,39 @@
+# 🐍 Generates the contribution-snake animation referenced by README.md.
+# Output is pushed to the `output` branch, which the README reads via raw.githubusercontent.com.
+#
+# IMPORTANT: this must run in the repo named after the username (shirasakaren/shirasakaren)
+# for the README image URL to resolve.
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake animation (pink palette 🌸)
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light&color_snake=#FF4FA3&color_dots=#FFE0EC,#FFB7C5,#FF8FC7,#FF69B4,#D6336C
+            dist/snake-dark.svg?palette=github-dark&color_snake=#FF69B4&color_dots=#2D1B24,#5C2E45,#A83A6B,#FF4FA3,#FFB7C5
+
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
