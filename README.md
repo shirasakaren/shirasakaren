@@ -267,7 +267,13 @@
 <img src="https://img.shields.io/badge/Debezium%20CDC-FF69B4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/DuckDB-D6336C?style=for-the-badge&logoColor=white" />
 
+<br>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXYyc21tdTQ3aTh3a3hjMGp2eXY1ZjdtNTNsdDlyYzYwZDIwZnN6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4INBS6NpnX4HDtsYvu/giphy.gif" width="300" alt="heart skipping a beat" />
+
 <sub>**PostgreSQL** is my one true database — i tune `autovacuum` recreationally 💘</sub>
+
+<sub>*(that's my heart skipping, not a failover)*</sub>
 
 </div>
 
@@ -356,6 +362,14 @@ ren@sanctuary ~ $ neofetch --kawaii
 
 <sub>✧ fun 2026 fact: under CNCF's **CARE** program, passing CKS now auto-extends my CKA 🎁</sub>
 
+<div align="center">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanc5MmRwejFpMWV2d3o0NmpraXpneDgyeW1hZ2I4ZjhoaHEwNTZpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/359e5XvkEk6SacD7pa/giphy.gif" width="280" alt="shy Ren" />
+
+<sub>*a-ah, please don't stare at the list too long...* 🫣</sub>
+
+</div>
+
 </details>
 
 <div align="center">
@@ -370,7 +384,25 @@ ren@sanctuary ~ $ neofetch --kawaii
 <a href="mailto:ren@shirasaka.work"><img src="https://img.shields.io/badge/ren%40shirasaka.work-FF69B4?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" /></a>
 <a href="https://github.com/shirasakaren"><img src="https://img.shields.io/badge/@shirasakaren-D6336C?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
-<br><br>
+<br>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVycWRlMmNsYXA1emJkZmUwOWFxdjdhdWNjeHl6dWl2dTg5bmY3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xdv8L6vywYnFRLFZKC/giphy.gif" width="300" alt="hehe" />
+
+<sub>*hehe~ go on, copy it* ｡･:\*:･ﾟ★</sub>
+
+</div>
+
+```
+ren@shirasaka.work
+```
+
+<div align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjE0OHVsMHU3ODJxdXFjN3Y3YmoyOTUzNzN6a3Zhd2hyMXBvbzhsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A05e5JosGNUFq/giphy.gif" width="320" alt="Ren, delighted" />
+
+<sub>*you actually mailed me?! ٩(◕‿◕｡)۶*</sub>
+
+<br>
 
 ╭────────────────────── ✿ ──────────────────────╮
 
