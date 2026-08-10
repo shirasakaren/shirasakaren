@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<a href="https://ren.shirasaka.work"><img src="badge.gif" width="440" height="100" alt="My Website — ren.shirasaka.work" /></a>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFE0EC,30:FFB7C5,65:FF69B4,100:C77DFF&text=Shirasaka%20Ren&fontSize=66&fontColor=FFFFFF&fontAlignY=38&desc=%E7%99%BD%E5%9D%82%20%E3%82%8C%E3%82%93%20%E3%83%BB%20DevOps%20%C2%B7%20Security%20%C2%B7%20Cloud%20%C2%B7%20Servers&descSize=18&descAlignY=56&animation=fadeIn&section=header" width="100%" alt="banner" />
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k0YTRieHp4bTBzeDgxNGo4Z3FiZGMzazZkZmJ0Z2RzMGZhaDZhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5lEHoiAYfaOJ6m9Y8/giphy.gif" width="420" alt="Ren's live2d avatar" />
