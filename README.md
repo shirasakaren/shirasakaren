@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<a href="https://ren.shirasaka.work"><img src="badge.gif" width="440" height="100" alt="My Website — ren.shirasaka.work" /></a>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:FFE0EC,30:FFB7C5,65:FF69B4,100:C77DFF&text=Shirasaka%20Ren&fontSize=66&fontColor=FFFFFF&fontAlignY=38&desc=%E7%99%BD%E5%9D%82%20%E3%82%8C%E3%82%93%20%E3%83%BB%20DevOps%20%C2%B7%20Security%20%C2%B7%20Cloud%20%C2%B7%20Servers&descSize=18&descAlignY=56&animation=fadeIn&section=header" width="100%" alt="banner" />
@@ -20,7 +18,18 @@
 <img src="https://img.shields.io/badge/JST%20UTC%2B09%3A00-C77DFF?style=for-the-badge&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=shirasakaren&style=for-the-badge&color=FF69B4&label=visitors" alt="visitors" />
 
-<br><br>
+<br>
+&nbsp;
+<br>
+
+<div>
+  <a href="https://ren.shirasaka.work"><img src="https://img.shields.io/badge/My Website-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" width="180" alt="website" /></a>
+  <div align="center">
+    <sub>Click it to see my website</sub>
+  </div>
+</div>
+
+<br>
 
 ╭─────────────── ✿ ───────────────╮
 
