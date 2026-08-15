@@ -23,7 +23,7 @@
 <br>
 
 <div>
-  <a href="https://ren.shirasaka.work"><img src="https://img.shields.io/badge/My Website-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" width="180" alt="website" /></a>
+  <a href="https://shirasaka.ren"><img src="https://img.shields.io/badge/My Website-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" width="180" alt="website" /></a>
   <div align="center">
     <sub>Click it to see my website</sub>
   </div>
@@ -353,11 +353,6 @@ ren@sanctuary ~ $ neofetch --kawaii
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shirasakaren&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=FFF0F5&title_color=D6336C&text_color=8A5A72&icon_color=FF69B4&border_color=FFB7C5&border_radius=14&custom_title=Ren's%20Stats" alt="stats" />
-<img height="180" src="https://streak-stats.demolab.com?user=shirasakaren&background=FFF0F5&border=FFB7C5&stroke=FFB7C5&ring=FF69B4&fire=FF1493&currStreakNum=D6336C&sideNums=D6336C&currStreakLabel=FF69B4&sideLabels=8A5A72&dates=B392A0&border_radius=14" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shirasakaren&bg_color=FFF0F5&color=D6336C&line=FF69B4&point=FF1493&area=true&area_color=FFB7C5&title_color=D6336C&hide_border=false&custom_title=Ren's%20Contribution%20Garden%20%F0%9F%8C%B8&radius=16" width="100%" alt="activity graph" />
-
 <img src="https://github-trophies.vercel.app/?username=shirasakaren&theme=flat&column=6&margin-w=10&margin-h=10&no-frame=true" alt="trophies" />
 
 </div>
@@ -406,8 +401,10 @@ ren@sanctuary ~ $ neofetch --kawaii
 
 <div align="center">
 
-<a href="https://ren.shirasaka.work"><img src="https://img.shields.io/badge/ren.shirasaka.work-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
-<a href="mailto:ren@shirasaka.work"><img src="https://img.shields.io/badge/ren%40shirasaka.work-FF69B4?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" /></a>
+<a href="https://shirasaka.ren"><img src="https://img.shields.io/badge/shirasaka.ren-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+<a href="https://chatwith.ren"><img src="https://img.shields.io/badge/chatwith.ren-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+<a href="https://creations.ren"><img src="https://img.shields.io/badge/creations.ren-FF4FA3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+<a href="mailto:ren@shirasaka.ren"><img src="https://img.shields.io/badge/ren%40shirasaka.ren-FF69B4?style=for-the-badge&logo=maildotru&logoColor=white" alt="email" /></a>
 <a href="https://github.com/shirasakaren"><img src="https://img.shields.io/badge/@shirasakaren-D6336C?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
 <br>
@@ -419,7 +416,7 @@ ren@sanctuary ~ $ neofetch --kawaii
 </div>
 
 ```
-ren@shirasaka.work
+ren@shirasaka.ren
 ```
 
 <div align="center">
